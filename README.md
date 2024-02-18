@@ -28,6 +28,6 @@ Successfully integrated three APIs, including OpenAI's API to use artificial int
 #### An API that sends an email and SMS at the same time to someone.
 It uses abstraction to change from one email sender provider to another if the first one fails.
 
-### - [School Management Application](https://github.com/marcioflaviob/email-sms-sender)
+### - [School Management Application](https://github.com/marcioflaviob/school-management)
 #### A Spring Boot application that manages students and lessons.
 This was a game-changer for managing my students and lessons when tutoring. It's super handy for keeping track of students, teachers, books, and lessons. The Spring Boot follows the MVC pattern for a solid and scalable setup
