@@ -1,5 +1,7 @@
 <h1 align=center>Hi, I'm Marcio! 👋</h1>
 
+[![mbrandao's 42 stats](https://badge.nimon.fr/api/v2/cm2f7q53x2490901pfkr9ol5jc/stats?cursusId=21&coalitionId=47)](https://github.com/Nimon77/badge42)
+
 ## 🚀 About Me
 I'm a Software Engineer with a passion for education. I made a career transition from English tutor to software development. I have been studying Java and other programming languages for the past few years and have recently moved to Paris to pursue my studies at one of the country's top IT schools. I am excited to use my skills to create innovative software solutions that make a positive impact on the world.
 
